@@ -1,0 +1,5 @@
+1.Change sequence Attach browser to open browser
+2.Try to write time (+) in email id
+3.Simulate click ,send windows message check how both are behaving
+4.remove navigate to either attach browser or open browser activity.
+5.get text instead use get attribute
